@@ -1,7 +1,7 @@
 # Portfolio
 Personal project portfolio
 
-## [Project 1: Pyshooting Game](https://github.com/heyheynew/PyShooting.git)
+## [Project 1: Pyshooting Game](https://github.com/heyheynew/PyShooting/PyShooting.py)
 
 
 ## [Project 2: Mask_Detector](https://github.com/heyheynew/Mask_Detector.git)
