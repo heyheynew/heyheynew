@@ -2,7 +2,7 @@
 Personal project portfolio
 
 ## [Project 1: Pyshooting Game](https://github.com/heyheynew/PyShooting)
-![](pyshooting/images/pyshooting.png)
+![](PyShooting/image/pyshooting.png)
 - 제작기간 : 2021/11/29 ~ 2021/12/10
 - python을 활용한 shooting game
 -
